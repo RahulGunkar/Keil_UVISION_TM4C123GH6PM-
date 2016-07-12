@@ -1,0 +1,12 @@
+.\objects\tiva_code_1.o: tiva_code_1.c
+.\objects\tiva_code_1.o: tm4c123gh6pm.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h
+.\objects\tiva_code_1.o: PLL.h
+.\objects\tiva_code_1.o: SysTick.h
+.\objects\tiva_code_1.o: UART.h
+.\objects\tiva_code_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

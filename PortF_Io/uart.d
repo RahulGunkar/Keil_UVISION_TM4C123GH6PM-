@@ -1,0 +1,9 @@
+.\uart.o: UART.c
+.\uart.o: tm4c123gh6pm.h
+.\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\uart.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h
+.\uart.o: UART.h

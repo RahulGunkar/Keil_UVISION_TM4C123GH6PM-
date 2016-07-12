@@ -1,0 +1,30 @@
+Dependencies for Project 'Timer_Capture', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Timer_Capture.c)(0x567F9FA0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I "F:\tiva programs\New folder\Timer_Capture\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\timer_capture.o --omf_browse .\objects\timer_capture.crf --depend .\objects\timer_capture.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C268E0)
+I (tm4c123gh6pm.h)(0x561BA6AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6B2CE)
+I (PLL.h)(0x523055E4)
+I (UART.h)(0x539F1ED2)
+I (SysTick.h)(0x539F204C)
+F (.\startup_TM4C123.s)(0x55CA4E67)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I "F:\tiva programs\New folder\Timer_Capture\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (.\PLL.c)(0x523055E4)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I "F:\tiva programs\New folder\Timer_Capture\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\pll.o --omf_browse .\objects\pll.crf --depend .\objects\pll.d)
+I (PLL.h)(0x523055E4)
+F (.\SysTick.c)(0x539F2024)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I "F:\tiva programs\New folder\Timer_Capture\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
+F (.\UART.c)(0x55DAED9D)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I "F:\tiva programs\New folder\Timer_Capture\RTE"-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (tm4c123gh6pm.h)(0x561BA6AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6B2CE)
+I (UART.h)(0x539F1ED2)
+F (.\PLL.h)(0x523055E4)()
+F (.\SysTick.h)(0x539F204C)()
+F (.\TM4C123GH6PM.h)(0x561BA6AA)()
+F (.\UART.h)(0x539F1ED2)()

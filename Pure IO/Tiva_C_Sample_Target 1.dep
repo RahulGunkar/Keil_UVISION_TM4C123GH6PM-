@@ -1,0 +1,29 @@
+Dependencies for Project 'Tiva_C_Sample', Target 'Target 1': (DO NOT MODIFY !)
+F (D:\Keil\ARM\Startup\TI\TM4C123\startup_TM4C123.s)(0x55AFCAA2)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\PLL.h)(0x523055E4)()
+F (.\PLL.c)(0x523055E4)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x523055E4)
+F (.\pwm_tiva_C\SysTick.c)(0x539F2024)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+F (.\pwm_tiva_C\UART.c)(0x539F1ECE)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (pwm_tiva_C\tm4c123gh6pm.h)(0x55D62B00)
+I (D:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C1AEA)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C1AEA)
+I (D:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C1740)
+I (pwm_tiva_C\UART.h)(0x539F1ED2)
+F (.\pwm_tiva_C\SysTick.h)(0x539F204C)()
+F (.\pwm_tiva_C\UART.h)(0x539F1ED2)()
+F (.\pwm_tiva_C\pwm_sample.c)(0x55D703F3)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\pwm_sample.o --omf_browse .\pwm_sample.crf --depend .\pwm_sample.d)
+I (pwm_tiva_C\tm4c123gh6pm.h)(0x55D62B00)
+I (D:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C1AEA)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C1AEA)
+I (D:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C1740)
+I (pwm_tiva_C\PLL.h)(0x539F1FE6)
+I (pwm_tiva_C\SysTick.h)(0x539F204C)
+I (pwm_tiva_C\UART.h)(0x539F1ED2)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)

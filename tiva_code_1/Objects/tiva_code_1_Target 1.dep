@@ -1,0 +1,30 @@
+Dependencies for Project 'tiva_code_1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\tiva_code_1.c)(0x5672DA32)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\tiva_code_1\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\tiva_code_1.o --omf_browse .\objects\tiva_code_1.crf --depend .\objects\tiva_code_1.d)
+I (tm4c123gh6pm.h)(0x55D62B00)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6B2CE)
+I (PLL.h)(0x539F1FE6)
+I (SysTick.h)(0x539F204C)
+I (UART.h)(0x539F1ED2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C268E0)
+F (..\pwm_tiva_C\PLL.c)(0x523055E4)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\tiva_code_1\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\pll.o --omf_browse .\objects\pll.crf --depend .\objects\pll.d)
+I (..\pwm_tiva_C\PLL.h)(0x539F1FE6)
+F (..\pwm_tiva_C\SysTick.c)(0x539F2024)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\tiva_code_1\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
+F (..\pwm_tiva_C\UART.c)(0x566A94AB)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\tiva_code_1\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (..\pwm_tiva_C\tm4c123gh6pm.h)(0x55D62B00)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6B2CE)
+I (..\pwm_tiva_C\UART.h)(0x539F1ED2)
+F (..\pwm_tiva_C\PLL.h)(0x539F1FE6)()
+F (..\pwm_tiva_C\SysTick.h)(0x539F204C)()
+F (..\pwm_tiva_C\UART.h)(0x539F1ED2)()
+F (.\TM4C123GH6PM.h)(0x55D62B00)()
+F (.\startup_TM4C123.s)(0x55CA4E67)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\dell\Desktop\Tiva_C_Sample\tiva_code_1\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)

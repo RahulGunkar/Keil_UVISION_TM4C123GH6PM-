@@ -1,0 +1,12 @@
+.\pwm_sample.o: pwm_tiva_C\pwm_sample.c
+.\pwm_sample.o: pwm_tiva_C\tm4c123gh6pm.h
+.\pwm_sample.o: D:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\pwm_sample.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\pwm_sample.o: D:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\pwm_sample.o: D:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\pwm_sample.o: D:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\pwm_sample.o: D:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\pwm_sample.o: pwm_tiva_C\PLL.h
+.\pwm_sample.o: pwm_tiva_C\SysTick.h
+.\pwm_sample.o: pwm_tiva_C\UART.h
+.\pwm_sample.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h

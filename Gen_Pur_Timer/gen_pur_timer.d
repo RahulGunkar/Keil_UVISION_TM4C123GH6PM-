@@ -1,0 +1,11 @@
+.\gen_pur_timer.o: Gen_Pur_Timer.c
+.\gen_pur_timer.o: tm4c123gh6pm.h
+.\gen_pur_timer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\gen_pur_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\gen_pur_timer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\gen_pur_timer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\gen_pur_timer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\gen_pur_timer.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h
+.\gen_pur_timer.o: SysTick.h
+.\gen_pur_timer.o: PLL.h
+.\gen_pur_timer.o: UART.h

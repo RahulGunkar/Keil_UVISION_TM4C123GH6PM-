@@ -1,0 +1,9 @@
+.\uart.o: pwm_tiva_C\UART.c
+.\uart.o: pwm_tiva_C\tm4c123gh6pm.h
+.\uart.o: D:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\uart.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\uart.o: D:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\uart.o: D:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\uart.o: D:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\uart.o: D:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\uart.o: pwm_tiva_C\UART.h

@@ -1,0 +1,9 @@
+--cpu Cortex-M4
+".\pll.o"
+".\startup_tm4c123.o"
+".\systick.o"
+".\uart.o"
+".\gen_pur_timer.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Gen_Pur_Timer.map" -o .\Gen_Pur_Timer.axf

@@ -1,0 +1,22 @@
+#include <tm4c123gh6pm.h>
+
+#define PORTA                   (*((volatile unsigned long *)0x40004000))
+#define DDRA                    (*((volatile unsigned long *)0x40004400))
+#define AFSELA                  (*((volatile unsigned long *)0x40004420))
+#define PURA                    (*((volatile unsigned long *)0x40004510))
+#define DENA                    (*((volatile unsigned long *)0x4000451C))
+#define LOCKA                   (*((volatile unsigned long *)0x40004520))
+#define CRA                     (*((volatile unsigned long *)0x40004524))
+#define AMSELA                  (*((volatile unsigned long *)0x40004528))
+#define PCTLA                   (*((volatile unsigned long *)0x4000452C))
+#define SYSTCLA                 (*((volatile unsigned long *)0x400FE108))
+
+void PortA_Init(void)
+{
+	unsigned long delay;
+	SYSTCLA |= 0x00;
+	delay = SYSTCLA;
+	LOCKA = 0x4C4F434B;
+	CRA = 0x
+	
+}

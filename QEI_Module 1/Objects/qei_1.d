@@ -1,0 +1,11 @@
+.\objects\qei_1.o: QEI_1.c
+.\objects\qei_1.o: tm4c123gh6pm.h
+.\objects\qei_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\objects\qei_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\qei_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\qei_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\qei_1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\qei_1.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h
+.\objects\qei_1.o: PLL.h
+.\objects\qei_1.o: SysTick.h
+.\objects\qei_1.o: UART.h

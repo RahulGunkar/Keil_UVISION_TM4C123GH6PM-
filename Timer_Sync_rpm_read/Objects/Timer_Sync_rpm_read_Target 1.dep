@@ -1,0 +1,43 @@
+Dependencies for Project 'Timer_Sync_rpm_read', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x566D12B0)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (tm4c123gh6pm.h)(0x561BA6AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6B2CE)
+I (PLL.h)(0x523055E4)
+I (SysTick.h)(0x539F204C)
+I (UART.h)(0x539F1ED2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54C268E0)
+I (fifo.h)(0x5625F409)
+I (Queue_Lib.h)(0x56249117)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C268E0)
+F (.\startup_TM4C123.s)(0x55CA4E67)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (.\fifo.c)(0x5625F407)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\fifo.o --omf_browse .\objects\fifo.crf --depend .\objects\fifo.d)
+I (fifo.h)(0x5625F409)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+F (.\PLL.c)(0x523055E4)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\pll.o --omf_browse .\objects\pll.crf --depend .\objects\pll.d)
+I (PLL.h)(0x523055E4)
+F (.\Queue_Lib.c)(0x56249115)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\queue_lib.o --omf_browse .\objects\queue_lib.crf --depend .\objects\queue_lib.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C268E0)
+I (Queue_Lib.h)(0x56249117)
+F (.\SysTick.c)(0x539F2024)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
+F (.\UART.c)(0x5666DD17)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\dell\Desktop\Tiva_C_Sample\Timer_Sync_rpm_read\RTE-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (tm4c123gh6pm.h)(0x561BA6AA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C268E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x53465C9C)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6B2CE)
+I (UART.h)(0x539F1ED2)
+F (.\fifo.h)(0x5625F409)()
+F (.\PLL.h)(0x523055E4)()
+F (.\Queue_Lib.h)(0x56249117)()
+F (.\SysTick.h)(0x539F204C)()
+F (.\TM4C123GH6PM.h)(0x561BA6AA)()
+F (.\UART.h)(0x539F1ED2)()

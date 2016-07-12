@@ -1,0 +1,11 @@
+.\objects\pwm_sample.o: pwm_sample.c
+.\objects\pwm_sample.o: tm4c123gh6pm.h
+.\objects\pwm_sample.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\objects\pwm_sample.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pwm_sample.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\pwm_sample.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\pwm_sample.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\pwm_sample.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C123\system_TM4C123.h
+.\objects\pwm_sample.o: PLL.h
+.\objects\pwm_sample.o: SysTick.h
+.\objects\pwm_sample.o: UART.h

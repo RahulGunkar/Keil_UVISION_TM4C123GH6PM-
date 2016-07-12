@@ -1,0 +1,11 @@
+--cpu Cortex-M4
+".\objects\startup_tm4c123.o"
+".\objects\main.o"
+".\objects\pll.o"
+".\objects\systick.o"
+".\objects\uart.o"
+".\objects\fifo.o"
+".\objects\queue_lib.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\full_fledged_4_wheel_drive.map" -o .\Objects\full_fledged_4_wheel_drive.axf
